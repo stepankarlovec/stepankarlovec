@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @stepankarlovec
-- 👀 I’m interested in Web Aplications - php, js
-- 🌱 I’m currently learning JavaScript - Node
-- 💞️ I’m looking to collaborate on SOMETHING THAT GONNA MAKE SUM CASH
-- 📫 How to reach me just dm me on github idgaf
+roses are red, violets are blue, my code is not trash, i just dont have a clue.
